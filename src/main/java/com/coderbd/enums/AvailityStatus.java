@@ -1,0 +1,5 @@
+package com.coderbd.enums;
+
+public enum AvailityStatus {
+    AVAILABLE,AWAY,WORKING,UVFOR1DAY,UVFORLESSTHAN3DAYS,UVFORLESSTHAN7DAYS,UVFORFOR30DAYS;
+}
